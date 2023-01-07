@@ -11,7 +11,10 @@ A person to whom computers fascinate more than human, a person great interest in
 - 📚 I’m currently learning a Computer Science Degree at UNAHUR
 - 📍 I am from Venezuela but I currently live in Buenos Aires, Argentina
 - ⚡ Fun fact: I'm obsessed with coding
-- 📫 How to reach me '<secret>'
+- 📫 How to reach me `<secret>`
+
+![giphy](https://user-images.githubusercontent.com/104869259/211172594-d603684e-8e00-4c49-b501-098857978a69.gif)
+
  
 <!--
 **dev-eloy/dev-eloy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
