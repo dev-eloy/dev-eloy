@@ -1,5 +1,15 @@
-### Hi there 👋
-# print('Hello World 🦧')
+# console.log('Hello World!!🦖')
+
+```
+const thought = "It's not a bug, it's an undocumented feature";
+console.log(thought);
+```
+
+A person  to whom  computers fascinate more than human, a person great interest in Astronomy and Graphic Design
+
+- 👋 Hi, I’m Andrés Eloy López Mejías
+- 📚 I’m currently learning a Computer Science Degree at UNAHUR
+- 👯 I’m looking to collaborate on ...
 
 <!--
 **dev-eloy/dev-eloy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
