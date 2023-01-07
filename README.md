@@ -8,12 +8,14 @@ console.log(thought);
 A person to whom computers fascinate more than human, a person great interest in Astronomy and Graphic Design. I have always been interested in computers since I was a child, until I spent all day sitting in front of a monitor.
 
 - 👋 Hi, I’m Andrés Eloy López Mejías
-- 📚 I’m currently learning a Computer Science Degree at UNAHUR
+- 📚 I’m currently learning a Computer Science Degree at [UNAHUR](http://www.unahur.edu.ar)	
 - 📍 I am from Venezuela but I currently live in Buenos Aires, Argentina
 - ⚡ Fun fact: I'm obsessed with coding
 - 📫 How to reach me `<secret>`
 
-![giphy](https://user-images.githubusercontent.com/104869259/211172594-d603684e-8e00-4c49-b501-098857978a69.gif)
+![4ff07986208593 5d9a654e92f36](https://user-images.githubusercontent.com/104869259/211172689-cdc0ec5e-b3c8-46c9-990d-903947dec3ef.gif)
+
+
 
  
 <!--
