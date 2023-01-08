@@ -1,5 +1,7 @@
 # console.log('Hello World!!🦖')
 
+---
+
 ```
 const thought = "It's not a bug, it's an undocumented feature";
 console.log(thought);
@@ -13,9 +15,17 @@ A person to whom computers fascinate more than human, a person great interest in
 - ⚡ Fun fact: I'm obsessed with coding
 - 📫 How to reach me `<secret>`
 
+## Skills and Experience
+
+- 💻 HTML, CSS, JS
+- Typescrypt, Bootstrap
+- Angular
+- Java, Spring Boot
+- MySQL
+- Excel
+- Adobe Photoshop and Illustrator
+
 Currently available for a new job! 💪
-
-
 
 ![4ff07986208593 5d9a654e92f36](https://user-images.githubusercontent.com/104869259/211172689-cdc0ec5e-b3c8-46c9-990d-903947dec3ef.gif)
 
