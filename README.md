@@ -17,7 +17,7 @@ A person to whom computers fascinate more than human, a person great interest in
 
 ## Skills and Experience
 
-- 💻 HTML, CSS, JS
+- HTML, CSS, JS
 - Typescrypt, Bootstrap
 - Angular
 - Java, Spring Boot
