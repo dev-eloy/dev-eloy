@@ -2,10 +2,10 @@
 
 ---
 
-```
+~~~
 const thought = "It's not a bug, it's an undocumented feature";
 console.log(thought);
-```
+~~~
 
 A person to whom computers fascinate more than human, a person great interest in Astronomy and Graphic Design. I have always been interested in computers since I was a child, until I spent all day sitting in front of a monitor.
 
