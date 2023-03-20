@@ -7,7 +7,7 @@ const thought = "It's not a bug, it's an undocumented feature";
 console.log(thought);
 ~~~
 
-A person to whom computers fascinate more than human, a person great interest in Astronomy and Graphic Design. I have always been interested in computers since I was a child, until I spent all day sitting in front of a monitor.
+I am a motivated and passionate Computer Science Bachelor student with skills in software development and programming. I have experience working on individual and team projects, and I enjoy learning new technology and solving complex problems.
 
 - 👋 Hi, I’m Andrés Eloy López Mejías
 - 📚 I’m currently learning a Computer Science Degree at [UNAHUR](http://www.unahur.edu.ar)	
