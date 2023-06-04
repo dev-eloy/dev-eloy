@@ -1,4 +1,4 @@
-# console.log('Hello World!🦖')
+# console.log('Hello World!')
 
 ---
 
@@ -10,7 +10,7 @@ console.log(thought);
 I am a motivated and passionate Computer Science Bachelor student with skills in software development and programming. I have experience working on individual and team projects, and I enjoy learning new technology and solving complex problems.
 
 - 👋 Hi, I’m Andrés Eloy López Mejías
-- 📚 I’m currently learning a Computer Science Degree at [UNAHUR](http://www.unahur.edu.ar)	
+- 📚 I’m currently learning at [UTN](https://www.utn.edu.ar/es/)	
 - 📍 I am from Venezuela but I currently live in Buenos Aires, Argentina
 - ⚡ Fun fact: I'm obsessed with coding
 - 📫 How to reach me: Mail me at "andreselm.dev@gmail.com"
