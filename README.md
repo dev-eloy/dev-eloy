@@ -7,12 +7,12 @@ const thought = "It's not a bug, it's an undocumented feature";
 console.log(thought);
 ~~~
 
-I am a motivated and passionate Computer Science Bachelor student with skills in software development and programming. I have experience working on individual and team projects, and I enjoy learning new technology and solving complex problems.
+I have over 4 years of experience in the graphic design and development sector. Throughout my career, I have had the opportunity to work on a variety of individual and team projects, utilizing new technologies and tools to solve complex problems. I specialize in applying my design and development skills to create innovative solutions that meet the needs of users.
 
 - 👋 Hi, I’m Andrés Eloy López Mejías
-- 📚 I’m currently learning at [UTN](https://www.utn.edu.ar/es/)	
+- 📚 I’m currently learning at [Universidad del Gran Rosario](https://ugr.edu.ar/carreras/tecnicatura-universitaria-en-ciberseguridad/)	
 - 📍 I am from Venezuela but I currently live in Buenos Aires, Argentina
-- ⚡ Fun fact: I'm obsessed with coding
+- ⚡ Fun fact: I'm obsessed with coding and hacking
 - 📫 How to reach me: Mail me at "andreselm.dev@gmail.com"
 
 <h3 align="left">Languages and Tools:</h3>
