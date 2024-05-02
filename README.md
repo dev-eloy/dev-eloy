@@ -1,43 +1,133 @@
-# console.log('Hello World!')
+<div id="header" align="center">
+    <img src="assets/Penguin.gif" width=200 />
+</div>
 
----
+<div id="hey" align="center">
+  <h1>
+    Hi!
+    I'm Andrés López
+    <img src="assets/parrot.gif" width="30" height="30"/>
+  </h1>
+</div>
 
-~~~
-const thought = "It's not a bug, it's an undocumented feature";
-console.log(thought);
-~~~
+<p align="center">
+  <img src="assets/line.gif">
+</p>
 
-I have over 4 years of experience in the graphic design and development sector. Throughout my career, I have had the opportunity to work on a variety of individual and team projects, utilizing new technologies and tools to solve complex problems. I specialize in applying my design and development skills to create innovative solutions that meet the needs of users.
+<h3 align="left">About Me:</h3>
+
++4 years of experience in the field of design and development. During my career I have had the opportunity to work on a variety of individual and team projects, using new technologies and tools to solve complex problems. I am dedicated to applying my design and development skills to create innovative solutions that meet the needs of users.
 
 - 👋 Hi, I’m Andrés Eloy López Mejías
-- 📚 I’m currently learning at [Universidad del Gran Rosario](https://ugr.edu.ar/carreras/tecnicatura-universitaria-en-ciberseguridad/)	
-- 📍 I am from Venezuela but I currently live in Buenos Aires, Argentina
+- 📚 I’m currently learning Associate Degree in Cybersecurity at [Universidad del Gran Rosario](https://ugr.edu.ar/carreras/tecnicatura-universitaria-en-ciberseguridad/)	
+- 📍 I currently live in Buenos Aires, Argentina
 - ⚡ Fun fact: I'm obsessed with coding and hacking
 - 📫 How to reach me: Mail me at "andreselm.dev@gmail.com"
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
+<div>
+    <div style="display: inline-block; margin-right: 10px;">
+        <img src="assets/CS.svg" width="50" height="50" />
+    </div>
+    <div style="display: inline-block; margin-right: 10px;">
+        <img src="assets/DotNet.svg" width="50" height="50" />
+    </div>
+    <div style="display: inline-block; margin-right: 10px;">
+        <img src="assets/JavaScript.svg" width="50" height="50" />
+    </div>
+    <div style="display: inline-block; margin-right: 10px;">
+        <img src="assets/TypeScript.svg" width="50" height="50" />
+    </div>
+    <div style="display: inline-block; margin-right: 10px;">
+        <img src="assets/NodeJS-Dark.svg" width="50" height="50" />
+    </div>
+    <div style="display: inline-block; margin-right: 10px;">
+        <img src="assets/ExpressJS-Dark.svg" width="50" height="50" />
+    </div>
+    <div style="display: inline-block; margin-right: 10px;">
+        <img src="assets/Prisma.svg" width="50" height="50" />
+    </div>
+    <div style="display: inline-block; margin-right: 10px;">
+        <img src="assets/HTML.svg" width="50" height="50" />
+    </div>
+    <div style="display: inline-block; margin-right: 10px;">
+        <img src="assets/CSS.svg" width="50" height="50" />
+    </div>
+    <div style="display: inline-block; margin-right: 10px;">
+        <img src="assets/React-Dark.svg" width="50" height="50" />
+    </div>
+    <div style="display: inline-block; margin-right: 10px;">
+        <img src="assets/Angular-Dark.svg" width="50" height="50" />
+    </div>
+    <div style="display: inline-block; margin-right: 10px;">
+        <img src="assets/TailwindCSS-Dark.svg" width="50" height="50" />
+    </div>
+    <div style="display: inline-block; margin-right: 10px;">
+        <img src="assets/Bootstrap.svg" width="50" height="50" />
+    </div>
+    <div style="display: inline-block; margin-right: 10px;">
+        <img src="assets/Npm-Dark.svg" width="50" height="50" />
+    </div>
+     <div style="display: inline-block; margin-right: 10px;">
+        <img src="assets/SqlServer.svg" width="50" height="50" />
+    </div>
+     <div style="display: inline-block; margin-right: 10px;">
+        <img src="assets/MySQL-Dark.svg" width="50" height="50" />
+    </div>
+     <div style="display: inline-block; margin-right: 10px;">
+        <img src="assets/Sharepoint.svg" width="50" height="50" />
+    </div>
+     <div style="display: inline-block; margin-right: 10px;">
+        <img src="assets/PowerPlatform.svg" width="50" height="50" />
+    </div>
+     <div style="display: inline-block; margin-right: 10px;">
+        <img src="assets/Github-Dark.svg" width="50" height="50" />
+    </div>
+     <div style="display: inline-block; margin-right: 10px;">
+        <img src="assets/Git.svg" width="50" height="50" />
+    </div>
+     <div style="display: inline-block; margin-right: 10px;">
+        <img src="assets/Photoshop.svg" width="50" height="50" />
+    </div>
+     <div style="display: inline-block; margin-right: 10px;">
+        <img src="assets/Illustrator.svg" width="50" height="50" />
+    </div>
+     <div style="display: inline-block; margin-right: 10px;">
+        <img src="assets/VisualStudio-Dark.svg" width="50" height="50" />
+    </div>
+    <div style="display: inline-block; margin-right: 10px;">
+        <img src="assets/VSCode-Dark.svg" width="50" height="50" />
+    </div>
+     <div style="display: inline-block; margin-right: 10px;">
+        <img src="assets/Postman.svg" width="50" height="50" />
+    </div>
+     <div style="display: inline-block; margin-right: 10px;">
+        <img src="assets/Kali-Dark.svg" width="50" height="50" />
+    </div>
+     <div style="display: inline-block; margin-right: 10px;">
+        <img src="assets/Windows-Dark.svg" width="50" height="50" />
+    </div>
+</div>
 
-Currently available for a new job! 💪
+<h3 align="left">Contacts:</h3>
 
-![contributions](https://user-images.githubusercontent.com/104869259/212458487-325bcce8-7243-4e21-8067-6e83c5b9a55a.svg)
+<div>
+    <div style="display: inline-block; margin-right: 10px;">
+    <a href="https://www.linkedin.com/in/andreslopezzz/" target="_blank">
+        <img src="assets/Linkedin.svg" width="50" height="50" />
+    </a>
+    </div>
+    <div style="display: inline-block; margin-right: 10px;">
+        <a href="https://www.linkedin.com/in/andreslopezzz/" target="_blank">
+        <img src="assets/Instagram.svg" width="50" height="50" />
+        </a>
+    </div>
+    <div style="display: inline-block; margin-right: 10px;">
+        <img src="assets/Gmail-Dark.svg" width="50" height="50" />
+    </div>
+</div>
 
-
-
-
- 
-<!--
-**dev-eloy/dev-eloy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img src="assets/grid-snake.svg">
+</p>
