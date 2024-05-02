@@ -30,7 +30,7 @@
 
 <h3 align="left">Contacts:</h3>
 
-<a href="https://www.linkedin.com/in/andreslopezzz/" target="_blank"><img src="assets/LinkedIn.svg" width="50" height="50" /></a> <img src="assets/Instagram.svg" width="50" height="50" /> <img src="assets/Gmail-Dark.svg" width="50" height="50" />
+<a href="https://www.linkedin.com/in/andreslopezzz/" target="_blank"><img src="assets/LinkedIn.svg" width="50" height="50" /></a><a href="https://www.instagram.com/andreselm_" target="_blank"> <img src="assets/Instagram.svg" width="50" height="50" /></a><a href="mailto:andreselm.dev@gmail.com" target="_blank"> <img src="assets/Gmail-Dark.svg" width="50" height="50" /></a>
 
 <p>
   <img src="assets/grid-snake.svg">
